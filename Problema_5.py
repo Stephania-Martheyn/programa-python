@@ -1,3 +1,8 @@
+#Nombre: Stephania Martheyn
+#Grupo: 213022_3
+#Programa: Ingeniería de Sistemas
+#Código Fuente: autoría propia 
+
 def calcular_resumen_jornada(recurso, umbral=40):
 	nombre = recurso[0]
 	horas_semanales = recurso[1:]
